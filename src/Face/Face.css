@@ -1,0 +1,10 @@
+.face {
+  background-color: #000000;
+  padding: 40px 50px;
+  border-radius: 80px;
+}
+
+.spacer {
+  display: block;
+  width: 80px;
+}

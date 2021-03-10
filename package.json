@@ -3,10 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "konva": "^4.0.6",
+    "lodash": "^4.17.15",
+    "mathjs": "^6.2.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-    "react-scripts": "3.1.1"
+    "react-konva": "^16.9.0-0",
+    "react-scripts": "3.1.1",
+    "react-spring": "^8.0.27"
   },
+  "homepage" : "/peepers",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
